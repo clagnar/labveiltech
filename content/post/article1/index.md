@@ -2,6 +2,6 @@
 title: "Article 1"
 author: "Clarisse G."
 date: 2023-01-24
-description: "Résumé de l'articel"
+description: "Résumé de l'article"
 ---
-Ceci est le cors du texte de la'rticle 1
+Ceci est le corps du texte de l'article 1
