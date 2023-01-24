@@ -14,21 +14,5 @@ menu:
         params:
             icon: user
 ---
-
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+# Domaine (ikigai) – mon lien avec ce domaine (Content creator ? Video ? Photo ?)
+Depuis mon plus jeune âge, je suis fascinée par le monde gravitant autour du graphisme. Alors, j’ai voulu m’inscrire au gymnase en arts visuels. Cependant, l’art à proprement dit est notamment liée à l’histoire, ce qui m’attire moins. En 2016, je me suis lancée dans un CFC de médiamaticienne, car les bancs académiques n’était pas fait pour moi. Durant ces trois années de formation, j’ai découvert le montage vidéo, ainsi que la notion de Motion Design. Au terme de ma formation, je voulais continuer à en apprendre davantage sur ce domaine multimédia. 
