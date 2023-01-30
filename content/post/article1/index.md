@@ -3,6 +3,7 @@ title: "Tout le monde peut réaliser des documentaires"
 author: "Clarisse G."
 date: 2023-01-02
 description: "Un homme montre en s'amusant à créer un documentaire Netflix sur sa tranche de pain toast."
+image: "netflix.jpg"
 ---
 ## Parler de tout et de rien
 [Vidéo “You Can Make a Netflix Style Doco About Literally Anything”](https://www.youtube.com/watch?v=9BUrNe3Vhtk&ab_channel=PaulE.T.)
