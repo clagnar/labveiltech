@@ -10,7 +10,7 @@ En 2012, comme beaucoup d’adolescents, j’ai fait la découverte d’un nouve
 
 Parmi les éléments phares de Minecraft, il y a Steve, le personnage principal du jeu, mais aussi les monstres, et tout particulièrement les « creepers ». Ces créatures hostiles sont un vrai symbole du jeu. Lorsqu’un joueur s’approche de celles-ci, elles deviennent explosives.
 
-Le tutoriel
+## Le tutoriel
 Afin de réaliser ma première création avec Blender3D, j’ai décidé de reproduire un Creeper, tout droit sorti de l’univers de Minecraft. Comme tout apprentissage, les débuts sont difficiles. En effet, les raccourcis des outils du logiciel sont propres à Blender3D et il faut comprendre à quoi servent certains éléments, mode d’affichage, etc.
 
 Cependant, je suis fière du résultat, et cela m’a amenée à prendre conscience de l’implication de la création des 300 blocs existant du jeu (sans l’ajout de modes), ainsi que de leurs NPC (Non-Player Characters).
