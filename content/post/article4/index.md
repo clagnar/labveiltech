@@ -3,6 +3,7 @@ title: "Avatar2 : The way of water, l'enjeux des CGI."
 author: "Clarisse G."
 date: 2023-01-02
 description: "Le film le plus chère de l'hisoire."
+image = "Avatar2-CGI.jpg"
 ---
 
 ## La sortie tant attendue...

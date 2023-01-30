@@ -4,6 +4,7 @@ author: "Clarisse G."
 date: 2023-01-02
 description: "Un homme montre en s'amusant à créer un documentaire Netflix sur sa tranche de pain toast."
 ---
+## Parler de tout et de rien
 [Vidéo “You Can Make a Netflix Style Doco About Literally Anything”](https://www.youtube.com/watch?v=9BUrNe3Vhtk&ab_channel=PaulE.T.)
 
 En parcourant divers tutoriels (pour l’article concernant l’expérimentation réalisée), j’ai aperçu cette suggestion dans les vidéos sur le côté de l’écran et dont le titre m’a intrigué.
