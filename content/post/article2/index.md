@@ -3,6 +3,7 @@ title: "Donnez plus de reconnaissance aux créateurs Minecraft"
 author: "Clarisse G."
 date: 2022-12-30
 description: "Découverte de l'outil Blender3D et création d'un Creeper."
+image: "creeper-blender.jpeg"
 ---
 Lorsque j’ai commencé à réaliser des montages vidéo, c’est tout naturellement que je me suis intéressée à l’expérience 3D. En effet, ce domaine est considéré comme à part, puisqu’il est totalement différent de la 2D. C’est seulement depuis cette année que je me suis réellement renseignée sur les logiciels existants. En parcourant diverses vidéos, j’ai découvert Blender3D et je suis tombée sur plusieurs tutoriels de niveau débutant, dont un m’a particulièrement fait sourire.
 
