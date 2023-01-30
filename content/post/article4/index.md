@@ -4,10 +4,6 @@ author: "Clarisse G."
 date: 2023-01-02
 description: "Le film le plus chère de l'hisoire."
 ---
----
-### Accès à l'article
-
-> NB: Cet [article](https://www.nytimes.com/2022/12/16/movies/avatar-2-fx-cgi.html) est sous abonnement au NewYork Times digital journal.
 
 ## La sortie tant attendue...
 
@@ -29,4 +25,13 @@ On apprends notamment dans l'article du NY Times que la quasi-totalité du tourn
 ### Qui est derrière tout ce travail ?
 
 C'est chez [Weta Digital](https://www.wetafx.co.nz/) que cette post-production a été réalisée. À titre indicatif, ils ont également réalisé les effets spéciaux de plusieurs Marvel comme Black Panther: Wakanda Forever et Avengers: Infinity War, mais aussi Dune et Men In Black International. 
+
+Une puissance considérable est également nécessaire. Pour cette seule scène, il a fallu deux semaines aux systèmes de Weta pour simuler uniquement le mouvement de l'eau. Et ce, avant les millions d'heures de processeur nécessaires au rendu des graphiques. (Au final, la quantité de données stockées pour ce film était de 18,5 pétaoctets, alors que "Avatar" a nécessité un pétaoctet. Pour rappel, un pétaoctet représente 1000 Téraoctet (To)).
+
+Si les résultats sont en un sens spectaculaires, l'intérêt de ce type de travail minutieux n'est pas d'attirer l'attention sur lui. "Il ne s'agit pas de moments fous qui crient 'effets visuels'. Ce sont juste des effets qui permettent au film de fonctionner", a-t-il déclaré. "Nous voulons simplement que les gens regardent le film et soient emportés, et oublient que nous avons fait quoi que ce soit".
+
+---
+### Accès à l'article
+
+NB: Cet [article](https://www.nytimes.com/2022/12/16/movies/avatar-2-fx-cgi.html) est sous abonnement au NewYork Times digital journal.
 
