@@ -2,4 +2,4 @@ baseURL = 'http://clagnar.github.io/labveiltech'
 languageCode = 'en-us'
 title = 'Articles Labveiltech'
 theme = 'hugo-theme-stack-master'
-paginate = 4
+paginate = 3

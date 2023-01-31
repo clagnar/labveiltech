@@ -18,10 +18,9 @@ Bien que je sois débutante dans le domaine des effets spéciaux, j’ai voulu m
 
 > Le motion design, traduit de l'anglais par design d'animation, est une technique qui permet d'animer des éléments graphiques. 
 
-Depuis les années 2010, le domaine de la vidéo a jailli de manière exponentielle, notamment grâce à YouTube, rendant les contenus dynamiques de plus en plus populaires.
+Depuis les années 2010, le domaine de la vidéo a jailli de manière exponentielle, notamment grâce à YouTube, rendant les contenus dynamiques de plus en plus populaires. 
 
-
-
+De nouveaux métiers ont émergés, notamment en tout ce qui concerne le montage post-production. Les streameurs Twitch par exemple, demandent de créer une animation d'éléments graphiques dans l'univers de leur identité. 
 
 ### Architecture
 

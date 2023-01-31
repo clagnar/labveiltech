@@ -1,5 +1,5 @@
 ---
-title: "Article sur un des articles du blog Blendamator "
+title: "Article sur ? "
 author: "Clarisse G."
 date: 2023-01-30
 description: "Buh"
