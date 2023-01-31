@@ -14,7 +14,7 @@ En fin d’année 2022 est sorti, après 10ans d’attente, Avatar 2 : the way o
 
 En effet, le travail accompli autant par James Cameron, réalisateur, que les acteurs et que toute l’équipe de VFX est une véritable œuvre d’art. Souvent, on dit que l’eau est l’un des éléments les plus difficiles à reproduire en digital, car cela relève de la physique. Ce sont des mouvements sans cesse et dont chaque est unique. 
 
-> Si vous n'êtes pas encore allés voir ce film, je vous le conseille vivement ! Ce sont 3h pour en prendre plein les yeux !
+Si vous n'êtes pas encore allés voir ce film, je vous le conseille vivement. Ce sont 3h pour en prendre plein les yeux, et tout particulièrement en 4Dx !
 
 ## C'est quoi un CGI ?
 Pour mieux comprendre les enjeux de l'utilisation des CGI, notamment avec un milieu aquatique, il faut déjà comprendre comment fonctionnent ces derniers.
@@ -27,9 +27,11 @@ On apprends notamment dans l'article du NY Times que la quasi-totalité du tourn
 
 C'est chez [Weta Digital](https://www.wetafx.co.nz/) que cette post-production a été réalisée. À titre indicatif, ils ont également réalisé les effets spéciaux de plusieurs Marvel comme Black Panther: Wakanda Forever et Avengers: Infinity War, mais aussi Dune et Men In Black International. 
 
-Une puissance considérable est également nécessaire. Pour cette seule scène, il a fallu deux semaines aux systèmes de Weta pour simuler uniquement le mouvement de l'eau. Et ce, avant les millions d'heures de processeur nécessaires au rendu des graphiques. (Au final, la quantité de données stockées pour ce film était de 18,5 pétaoctets, alors que "Avatar" a nécessité un pétaoctet. Pour rappel, un pétaoctet représente 1000 Téraoctet (To)).
+Une puissance considérable est également nécessaire. Pour une seule scène, il a fallu deux semaines aux systèmes de Weta pour simuler uniquement le mouvement de l'eau. Et ce, avant les millions d'heures de processeur nécessaires au rendu des graphiques. (Au final, la quantité de données stockées pour ce film était de 18,5 pétaoctets, alors que "Avatar" a nécessité un pétaoctet. Pour rappel, un pétaoctet représente 1000 Téraoctet).
 
-Si les résultats sont en un sens spectaculaires, l'intérêt de ce type de travail minutieux n'est pas d'attirer l'attention sur lui. "Il ne s'agit pas de moments fous qui crient 'effets visuels'. Ce sont juste des effets qui permettent au film de fonctionner", a-t-il déclaré. "Nous voulons simplement que les gens regardent le film et soient emportés, et oublient que nous avons fait quoi que ce soit".
+Si les résultats sont en un sens spectaculaires, l'intérêt de ce type de travail minutieux n'est pas d'attirer l'attention sur ce dernier. Le but était simplement que les gens qui regardent le film soient emportés, et oublient que ce soit un film réalisé pratiquement qu'en post production. 
+
+Ce que j'ai remarqué avec les cours d'UX Design dans le cadre de ma formation, c'est que les gens font des remarques que lorsque cela ne marche pas/c'est pas bien fait. En d'autres termes, très peu de personnes ne font de commentaires sur un bon design.
 
 ---
 ### Accès à l'article
