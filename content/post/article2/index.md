@@ -16,4 +16,4 @@ Afin de réaliser ma première création avec Blender3D, j’ai décidé de repr
 
 Cependant, je suis fière, pas forcément du résultat, mais de ma première expérience ! Cela m’a amenée à prendre conscience de l’implication de la création des 300 blocs existant du jeu (sans l’ajout de modes), ainsi que de leurs NPC (Non-Player Characters).
 
-![Mon rendu](/content/post/article2/exp-creeper-Blender.png)
+![Mon rendu](/labveiltech/content/post/article2/exp-creeper-Blender.png)
