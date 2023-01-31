@@ -1,7 +1,7 @@
 ---
 title: "Commment se tenir informé ?"
 author: "Clarisse G."
-date: 2023-01-29
+date: 2023-01-31
 description: "Système d'écoute mis en place"
 ---
 

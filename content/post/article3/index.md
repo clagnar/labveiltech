@@ -3,7 +3,7 @@ title: "Les domaines d'utilisation de Blender3D"
 author: "Clarisse G."
 date: 2023-01-29
 description: "Blender3D, un outil multi-facettes"
-image: "blender.jpg"
+image: "domaines.webp"
 ---
 
 ## La découverte
