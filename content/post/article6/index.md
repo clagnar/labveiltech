@@ -1,7 +1,7 @@
 ---
 title: "Passion pour la photographie"
 author: "Clarisse G."
-date: 2023-01-30
+date: 2023-01-31
 description: "Création de contenu et retouches"
 ---
 
